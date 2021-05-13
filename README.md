@@ -1,4 +1,4 @@
-# Awesome keyword Spotting
+# Awesome Keyword Spotting
 In speech processing, keyword spotting deals with the identification of keywords in utterances. This repo is a curated list of awesome Speech Keyword Spotting (Wake-Up Word Detection) papers.
 
 ## 2021
