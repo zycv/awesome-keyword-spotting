@@ -21,6 +21,11 @@ In speech processing, keyword spotting deals with the identification of keywords
 
 ## Publications
 ### 2021
+* [Streaming Transformer for Hardware Efficient Voice Trigger Detection and False Trigger Mitigation](https://arxiv.org/abs/2105.06598), Apple, 2021.05
+* [Efficient Keyword Spotting through long-range interactions with Temporal Lambda Networks](https://arxiv.org/abs/2104.08086), Universitat Polit ́ecnica de Catalunya, 2021.04
+* [End-to-end Keyword Spotting using Neural Architecture Search and Quantization](https://arxiv.org/abs/2104.06666), Graz University of Technology, 2021.04
+* [The DKU System Description for The Interspeech 2021 Auto-KWS Challenge](https://arxiv.org/abs/2104.04993), Duke Kunshan University, 2021.04
+* [Few-Shot Keyword Spotting in Any Language](https://arxiv.org/abs/2104.01454), Harvard University & Coqui & Google, 2021.04
 * [Keyword Transformer A Self-Attention Model for Keyword Spotting](https://arxiv.org/pdf/2104.00769), Arm ML Research Lab, 2021.04
 * [Learning Efficient Representations for Keyword Spotting with Triplet Loss](https://arxiv.org/pdf/2101.04792), Tomsk State University & NTR Labs, 2021.01
 * [The 2020 Personalized Voice Trigger Challenge: Open Database, Evaluation Metrics and the Baseline Systems](https://arxiv.org/pdf/2101.01935), Duke Kunshan University, 2021.01
@@ -181,6 +186,7 @@ In speech processing, keyword spotting deals with the identification of keywords
 
 ## Challenge
 1. [AutoSpeech 2020 Challenge](https://www.4paradigm.com/content/details_85_1870.html)
+
    In this challenge, we further propose the Automated Speech (AutoSpeech) competition which aims at proposing automated solutions for speech-related tasks. This challenge is restricted to multi-label classification problems, which come from different speech classification domains. The provided solutions are expected to discover various kinds of paralinguistic speech attribute information, such as speaker, language, emotion, etc, when only raw data (speech features) and meta information are provided. There are two kinds of datasets, which correspond to public and private leaderboard respectively. Five public datasets (without labels in the testing part) are provided to the participants for developing AutoSpeech solutions. Afterward, solutions will be evaluated on private datasets without human intervention. The results of these private datasets determine the final ranking.
 
    Officical Code: [AutoSpeech](https://github.com/VITA-Group/AutoSpeech)
@@ -190,6 +196,7 @@ In speech processing, keyword spotting deals with the identification of keywords
    
    Recently, personalized voice trigger or wake-up word detection is gaining popularity among speech researchers and developers. Conventionally, the wake-up word detection and speaker verification are carried out separately in pipeline, where a wake-up word detection system is used to generate successful trigger followed by a speaker verification system used to perform identity authentication. In such case, the wake-up word detection system and the speaker verification system are optimized separately, not through an overall joint optimization with a unified goal. As a consequence, their respective network parameters and extracted information are not effectively shared and jointly utilized. Generally the wake-up word detection system needs to run all the time，but the network of speaker verification is relatively large and may not meet the requirements of computing resources on embedding devices. The joint learning or multi-task learning network might be either very light at a small scale as a single always on system, or with a much larger scale at the second stage after a successful wake-up by the first stage voice trigger. 
 
+   Paper: [The DKU System Description for The Interspeech 2021 Auto-KWS Challenge](https://arxiv.org/abs/2104.04993)
    Officical Code: [PVTC2020](https://github.com/lenovo-voice/THE-2020-PERSONALIZED-VOICE-TRIGGER-CHALLENGE-BASELINE-SYSTEM)
 
 ## Leaderboard
