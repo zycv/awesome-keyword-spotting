@@ -21,6 +21,7 @@ In speech processing, keyword spotting deals with the identification of keywords
 
 ## Publications
 ### 2021
+* [Wav2KWS: Transfer Learning from Speech Representations for Keyword Spotting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9427206), Kumoh National Institute of Technology (KIT), 2021.05
 * [Streaming Transformer for Hardware Efficient Voice Trigger Detection and False Trigger Mitigation](https://arxiv.org/abs/2105.06598), Apple, 2021.05
 * [Efficient Keyword Spotting through long-range interactions with Temporal Lambda Networks](https://arxiv.org/abs/2104.08086), Universitat Polit ́ecnica de Catalunya, 2021.04
 * [End-to-end Keyword Spotting using Neural Architecture Search and Quantization](https://arxiv.org/abs/2104.06666), Graz University of Technology, 2021.04
@@ -128,6 +129,7 @@ In speech processing, keyword spotting deals with the identification of keywords
 * [Small-footprint keyword spotting using deep neural networks](https://research.google/pubs/pub42537.pdf), Guoguo Chen, 2014
 
 ## OpenSource Code
+* [Github: Wav2KWS: Transfer Learning from Speech Representations for Keyword Spotting](https://github.com/qute012/Wav2Keyword) ( **State-of-the-Art** ) 
 * [Github: Learning Efficient Representations for Keyword Spotting with Triplet Loss](https://github.com/roman-vygon/triplet_loss_kws)
 * [Github: The 2020 Personalized Voice Trigger Challenge: Open Database, Evaluation Metrics and the Baseline Systems](https://github.com/lenovo-voice/THE-2020-PERSONALIZED-VOICE-TRIGGER-CHALLENGE-BASELINE-SYSTEM)
 * [Github: Micronets: Neural network architectures for deploying tinyml applications on commodity microcontrollers](https://github.com/ARM-software/ML-zoo)
