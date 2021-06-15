@@ -21,6 +21,11 @@ In speech processing, keyword spotting deals with the identification of keywords
 
 ## Publications
 ### 2021
+* [Broadcasted Residual Learning for Efficient Keyword Spotting](https://arxiv.org/abs/2106.04140), Qualcomm AI Research, 2021.06
+* [Encoder-Decoder Neural Architecture Optimization for Keyword Spotting](https://arxiv.org/abs/2106.02738), University of Alberta & University of Montreal, 2021.06
+* [Teaching keyword spotters to spot new keywords with limited examples](https://arxiv.org/abs/2106.02443), Google Research, 2021.06
+* [Noisy student-teacher training for robust keyword spotting](https://arxiv.org/abs/2106.01604), Google Inc., 2021.06
+* [A Streaming End-to-End Framework For Spoken Language Understanding](https://arxiv.org/abs/2105.10042), University of Waterloo & HuaWei & Tsinghua University, 2021.05
 * [Wav2KWS: Transfer Learning from Speech Representations for Keyword Spotting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9427206), Kumoh National Institute of Technology (KIT), 2021.05
 * [Streaming Transformer for Hardware Efficient Voice Trigger Detection and False Trigger Mitigation](https://arxiv.org/abs/2105.06598), Apple, 2021.05
 * [Efficient Keyword Spotting through long-range interactions with Temporal Lambda Networks](https://arxiv.org/abs/2104.08086), Universitat Polit ́ecnica de Catalunya, 2021.04
@@ -107,7 +112,6 @@ In speech processing, keyword spotting deals with the identification of keywords
 * [Developing far-field speaker system via teacher-student learning](https://arxiv.org/pdf/1804.05166), Microsoft AI & Research, 2018.04
 * [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/abs/1803.01271), Carnegie Mellon University, 2018.03
 * [Speech recognition: keyword spotting through image recognition](https://arxiv.org/pdf/1803.03759), UCSU, 2018.03
-* [Attention-based End-to-End Models for Small-Footprint Keyword Spotting](https://arxiv.org/pdf/1803.10916), Xiaomi Inc., 2018.03
 * [Attention-based End-to-End Models for Small-Footprint Keyword Spotting](https://arxiv.org/pdf/1803.10916), Xiaomi Inc., 2018.03
 
 ### Others
