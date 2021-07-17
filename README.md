@@ -21,6 +21,9 @@ In speech processing, keyword spotting deals with the identification of keywords
 
 ## Publications
 ### 2021
+* [AUC Optimization for Robust Small-footprint Keyword Spotting with Limited Training Data](https://arxiv.org/abs/2107.05859), Northwestern Polytechnical University, 2021.07
+* [An Integrated Framework for Two-pass Personalized Voice Trigger](https://arxiv.org/abs/2106.15950), Xiamen University, 2021.06
+* [Zero-Shot Federated Learning with New Classes for Audio Classification](https://arxiv.org/abs/2106.10019), Global AI Accelerator, Ericsson, 2021.06
 * [Broadcasted Residual Learning for Efficient Keyword Spotting](https://arxiv.org/abs/2106.04140), Qualcomm AI Research, 2021.06
 * [Encoder-Decoder Neural Architecture Optimization for Keyword Spotting](https://arxiv.org/abs/2106.02738), University of Alberta & University of Montreal, 2021.06
 * [Teaching keyword spotters to spot new keywords with limited examples](https://arxiv.org/abs/2106.02443), Google Research, 2021.06
@@ -170,6 +173,7 @@ In speech processing, keyword spotting deals with the identification of keywords
 
     * Download: 
       * training data: [http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz](http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz)
+  
       * test data: [http://download.tensorflow.org/data/speech_commands_test_set_v0.02.tar.gz](http://download.tensorflow.org/data/speech_commands_test_set_v0.02.tar.gz)
   
 2. Mobvoi Hotwords
@@ -203,6 +207,7 @@ In speech processing, keyword spotting deals with the identification of keywords
    Recently, personalized voice trigger or wake-up word detection is gaining popularity among speech researchers and developers. Conventionally, the wake-up word detection and speaker verification are carried out separately in pipeline, where a wake-up word detection system is used to generate successful trigger followed by a speaker verification system used to perform identity authentication. In such case, the wake-up word detection system and the speaker verification system are optimized separately, not through an overall joint optimization with a unified goal. As a consequence, their respective network parameters and extracted information are not effectively shared and jointly utilized. Generally the wake-up word detection system needs to run all the time，but the network of speaker verification is relatively large and may not meet the requirements of computing resources on embedding devices. The joint learning or multi-task learning network might be either very light at a small scale as a single always on system, or with a much larger scale at the second stage after a successful wake-up by the first stage voice trigger. 
 
    Paper: [The DKU System Description for The Interspeech 2021 Auto-KWS Challenge](https://arxiv.org/abs/2104.04993)
+   
    Officical Code: [PVTC2020](https://github.com/lenovo-voice/THE-2020-PERSONALIZED-VOICE-TRIGGER-CHALLENGE-BASELINE-SYSTEM)
 
 ## Leaderboard
