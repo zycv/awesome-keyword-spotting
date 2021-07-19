@@ -21,6 +21,7 @@ In speech processing, keyword spotting deals with the identification of keywords
 
 ## Publications
 ### 2021
+* [Multi-task Learning with Cross Attention for Keyword Spotting](https://arxiv.org/abs/2107.07634), Apple & The University of Hong Kong, 2021.07
 * [AUC Optimization for Robust Small-footprint Keyword Spotting with Limited Training Data](https://arxiv.org/abs/2107.05859), Northwestern Polytechnical University, 2021.07
 * [An Integrated Framework for Two-pass Personalized Voice Trigger](https://arxiv.org/abs/2106.15950), Xiamen University, 2021.06
 * [Zero-Shot Federated Learning with New Classes for Audio Classification](https://arxiv.org/abs/2106.10019), Global AI Accelerator, Ericsson, 2021.06
