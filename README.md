@@ -140,6 +140,7 @@ In speech processing, keyword spotting deals with the identification of keywords
 
 ## OpenSource Code
 * [Github: Wav2KWS: Transfer Learning from Speech Representations for Keyword Spotting](https://github.com/qute012/Wav2Keyword) ( **State-of-the-Art** ) 
+* [Github: Few-Shot Keyword Spotting in Any Language](https://github.com/harvard-edge/multilingual_kws) 
 * [Github: Learning Efficient Representations for Keyword Spotting with Triplet Loss](https://github.com/roman-vygon/triplet_loss_kws)
 * [Github: The 2020 Personalized Voice Trigger Challenge: Open Database, Evaluation Metrics and the Baseline Systems](https://github.com/lenovo-voice/THE-2020-PERSONALIZED-VOICE-TRIGGER-CHALLENGE-BASELINE-SYSTEM)
 * [Github: Micronets: Neural network architectures for deploying tinyml applications on commodity microcontrollers](https://github.com/ARM-software/ML-zoo)
