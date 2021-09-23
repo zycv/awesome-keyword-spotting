@@ -21,6 +21,8 @@ In speech processing, keyword spotting deals with the identification of keywords
 
 ## Publications
 ### 2021
+* [Audiomer: A Convolutional Transformer for Keyword Spotting](https://arxiv.org/abs/2109.10252), George Mason University, 2021.09
+* [Behavior of Keyword Spotting Networks Under Noisy Conditions](https://arxiv.org/abs/2109.07930), Indian Institute Technology & University of T¨ubingen, 2021.09
 * [A Separable Temporal Convolution Neural Network with Attention for Small-Footprint Keyword Spotting](https://arxiv.org/abs/2109.00260), Beijing Institute of Technology & Xiaomi Inc., 2021.09
 * [Text Anchor Based Metric Learning for Small-footprint Keyword Spotting](https://arxiv.org/abs/2108.05516), ADSPLAB Peking University, 2021.08
 * [Multi-task Learning with Cross Attention for Keyword Spotting](https://arxiv.org/abs/2107.07634), Apple & The University of Hong Kong, 2021.07
