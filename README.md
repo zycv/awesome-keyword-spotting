@@ -21,7 +21,9 @@ In speech processing, keyword spotting deals with the identification of keywords
 
 ## Publications
 ### 2021
-* [Lightweight dynamic filter for keyword spotting](https://arxiv.org/abs/2109.11165), Korea University & Drexel University, 2021.09 
+* [End-to-end Keyword Spotting using Xception-1d](https://arxiv.org/abs/2110.07498), University of Valencia, 2021.10
+* [Multi-task Voice Activated Framework using Self-supervised Learning](https://arxiv.org/abs/2110.01077), University of California & Qualcomm, 2021.10
+* [Lightweight dynamic filter for keyword spotting](https://arxiv.org/abs/2109.11165), Korea University & Drexel University, 2021.09
 * [Audiomer: A Convolutional Transformer for Keyword Spotting](https://arxiv.org/abs/2109.10252), George Mason University, 2021.09
 * [Behavior of Keyword Spotting Networks Under Noisy Conditions](https://arxiv.org/abs/2109.07930), Indian Institute Technology & University of T¨ubingen, 2021.09
 * [A Separable Temporal Convolution Neural Network with Attention for Small-Footprint Keyword Spotting](https://arxiv.org/abs/2109.00260), Beijing Institute of Technology & Xiaomi Inc., 2021.09
@@ -101,7 +103,7 @@ In speech processing, keyword spotting deals with the identification of keywords
 ### 2018
 * [Benchmarking Keyword Spotting Efficiency on Neuromorphic Hardware](https://arxiv.org/pdf/1812.01739), Applied Brain Research, Inc., 2018.12
 * [Streaming Voice Query Recognition using Causal Convolutional Recurrent Neural Networks](https://arxiv.org/pdf/1812.07754), University of Waterloo, 2018.12
-* [Efficient Voice Trigger Detection for Low Resource Hardware](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2204.pdf), Siri Speech, 2018.11 Apple, 
+* [Efficient Voice Trigger Detection for Low Resource Hardware](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2204.pdf), Siri Speech, 2018.11 Apple,
 * [Sequence-to-sequence models for small-footprint keyword spotting](https://arxiv.org/pdf/1811.00348), Xiaomi Inc., 2018.11
 * [End-to-end Models with auditory attention in Multi-channel Keyword Spotting](https://arxiv.org/pdf/1811.00350), Xiaomi Inc., 2018.11
 * [Hierarchical Neural Network Architecture In Keyword Spotting](https://arxiv.org/pdf/1811.02320), NIO Co., Ltd, 2018.11
@@ -114,7 +116,7 @@ In speech processing, keyword spotting deals with the identification of keywords
 * [Weight-importance sparse training in keyword spotting](https://arxiv.org/pdf/1807.00560), NIO Co., Ltd, 2018.07
 * [Efficient keyword spotting using time delay neural networks](https://arxiv.org/pdf/1807.04353), Fluent.ai Inc., 2018.07
 * [Zero-shot keyword spotting for visual speech recognition in-the-wild](https://openaccess.thecvf.com/content_ECCV_2018/papers/Themos_Stafylakis_Zero-shot_keyword_search_ECCV_2018_paper.pdf), University of Nottingham, 2018.07
-* [ASR-free CNN-DTW keyword spotting using multilingual bottleneck features for almost zero-resource languages](https://arxiv.org/pdf/1807.08666), Stellenbosch University, 2018.07 
+* [ASR-free CNN-DTW keyword spotting using multilingual bottleneck features for almost zero-resource languages](https://arxiv.org/pdf/1807.08666), Stellenbosch University, 2018.07
 * [Resource-Efficient Neural Architect](https://arxiv.org/pdf/1806.07912), Baidu, 2018.06
 * [Visually grounded cross-lingual keyword spotting in speech](https://arxiv.org/pdf/1806.05030), Stellenbosch University, 2018.06
 * [Speech Commands: A Dataset for Limited-Vocabulary Speech Recognition](https://arxiv.org/pdf/1804.03209), Google Brain, 2018.04
@@ -134,7 +136,7 @@ In speech processing, keyword spotting deals with the identification of keywords
 * [Compressed Time Delay Neural Network for Small-Footprint Keyword Spotting](https://pdfs.semanticscholar.org/8eda/5fa7103406403a14342336c684b666dfdfc8.pdf), Amazon, 2017.08
 * [Max-pooling loss training of long short-term memory networks for small-footprint keyword spotting](https://arxiv.org/pdf/1705.02411), Amazon & Google Brain, 2017.05
 * [Convolutional Recurrent Neural Networks for Small-Footprint Keyword Spotting](https://arxiv.org/pdf/1703.05390), Baidu, 2017.03
-* [An End-to-End Architecture for Keyword Spotting and Voice Activity Detection](https://arxiv.org/pdf/1611.09405), Mindori, 2016.11  
+* [An End-to-End Architecture for Keyword Spotting and Voice Activity Detection](https://arxiv.org/pdf/1611.09405), Mindori, 2016.11
 * [Trainable Frontend For Robust and Far-Field Keyword Spotting](https://arxiv.org/pdf/1607.05666), Google, 2016.07
 * [Low Resource High Accuracy Keyword Spotting](https://pdfs.semanticscholar.org/22f3/6191692485746b1a67d722d5364a5365c132.pdf), Guoguo Chen, 2016
 * [Online keyword spotting with a character-level recurrent neural network](https://arxiv.org/pdf/1512.08903), 2015.12
@@ -142,8 +144,8 @@ In speech processing, keyword spotting deals with the identification of keywords
 * [Small-footprint keyword spotting using deep neural networks](https://research.google/pubs/pub42537.pdf), Guoguo Chen, 2014
 
 ## OpenSource Code
-* [Github: Wav2KWS: Transfer Learning from Speech Representations for Keyword Spotting](https://github.com/qute012/Wav2Keyword) ( **State-of-the-Art** ) 
-* [Github: Few-Shot Keyword Spotting in Any Language](https://github.com/harvard-edge/multilingual_kws) 
+* [Github: Wav2KWS: Transfer Learning from Speech Representations for Keyword Spotting](https://github.com/qute012/Wav2Keyword) ( **State-of-the-Art** )
+* [Github: Few-Shot Keyword Spotting in Any Language](https://github.com/harvard-edge/multilingual_kws)
 * [Github: Learning Efficient Representations for Keyword Spotting with Triplet Loss](https://github.com/roman-vygon/triplet_loss_kws)
 * [Github: The 2020 Personalized Voice Trigger Challenge: Open Database, Evaluation Metrics and the Baseline Systems](https://github.com/lenovo-voice/THE-2020-PERSONALIZED-VOICE-TRIGGER-CHALLENGE-BASELINE-SYSTEM)
 * [Github: Micronets: Neural network architectures for deploying tinyml applications on commodity microcontrollers](https://github.com/ARM-software/ML-zoo)
@@ -155,7 +157,7 @@ In speech processing, keyword spotting deals with the identification of keywords
 * [Github: Benchmarking Keyword Spotting Efficiency on Neuromorphic Hardware](https://github.com/abr/power_benchmarks/)
 
 ## Software
-1. [Porcupine](https://github.com/Picovoice/porcupine) 
+1. [Porcupine](https://github.com/Picovoice/porcupine)
 
    Porcupine is a highly-accurate and lightweight wake word engine. It enables building always-listening voice-enabled applications.
 
@@ -164,8 +166,8 @@ In speech processing, keyword spotting deals with the identification of keywords
     Sonus lets you quickly and easily add a VUI (Voice User Interface) to any hardware or software project. Just like Alexa, Google Assistant, and Siri, Sonus is always listening offline for a customizable hotword. Once that hotword is detected your speech is streamed to the cloud recognition service of your choice - then you get the results in realtime.
 
 3. [Picovoice](https://github.com/Picovoice/picovoice)
-    
-    Picovoice is the end-to-end platform for building voice products on your terms. Unlike Alexa and Google services, Picovoice runs entirely on-device while being more accurate. 
+
+    Picovoice is the end-to-end platform for building voice products on your terms. Unlike Alexa and Google services, Picovoice runs entirely on-device while being more accurate.
 4. [Mycroft Precise](https://github.com/MycroftAI/mycroft-precise)
 
     A lightweight, simple-to-use, RNN wake word listener.
@@ -178,16 +180,16 @@ In speech processing, keyword spotting deals with the identification of keywords
     * Homepage: [Speech Commands: A Dataset for Limited-Vocabulary Speech Recognition](https://arxiv.org/abs/1804.03209)
     * Description: An audio dataset of spoken words designed to help train and evaluate keyword spotting systems. Its primary goal is to provide a way to build and test small models that detect when a single word is spoken, from a set of ten target words, with as few false positives as possible from background noise or unrelated speech. Note that in the train and validation set, the label "unknown" is much more prevalent than the labels of the target words or background noise. One difference from the release version is the handling of silent segments. While in the test set the silence segments are regular 1 second files, in the training they are provided as long segments under "background_noise" folder. Here we split these background noise into 1 second clips, and also keep one of the files for the validation set.
 
-    * Download: 
+    * Download:
       * training data: [http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz](http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz)
-  
+
       * test data: [http://download.tensorflow.org/data/speech_commands_test_set_v0.02.tar.gz](http://download.tensorflow.org/data/speech_commands_test_set_v0.02.tar.gz)
-  
+
 2. Mobvoi Hotwords
     * Homepage: [Region Proposal Network Based Small-Footprint Keyword Spotting](http://openslr.org/87/)
 
-    * Description: 
-      * The MobvoiHotwords is a corpus of wake-up words collected from a commercial smart speaker of Mobvoi. It consists of keyword and non-keyword utterances. 
+    * Description:
+      * The MobvoiHotwords is a corpus of wake-up words collected from a commercial smart speaker of Mobvoi. It consists of keyword and non-keyword utterances.
       * For keyword data, keyword utterances contain either 'Hi xiaowen' or 'Nihao Wenwen' are collected. For each keyword, there are about 36k utterances. All keyword data is collected from 788 subjects, ages 3-65, with different distances from the smart speaker (1, 3 and 5 meters). Different noises (typical home environment noises like music and TV) with varying sound pressure levels are played in the background during the collection. The keyword data is identical to the keyword data used in the paper below:
 
     * Download: [MobvoiHotwords](http://openslr.org/87/)
@@ -195,7 +197,7 @@ In speech processing, keyword spotting deals with the identification of keywords
 3. HI-MIA
     * Homepage: [A far-field text-dependent speaker verification database for AISHELL Speaker Verification Challenge 2019](http://www.aishelltech.com/wakeup_data)
 
-    * Description: 
+    * Description:
       * The data is used in AISHELL Speaker Verification Challenge 2019. It is extracted from a larger database called AISHELL-WakeUp-1.
       * The contents are wake-up words "Hi, Mia" in both Chinese and English. The data is collected in real home environment using microphone arrays and Hi-Fi microphone. The collection process and development of a baseline system was described in the paper below. The data used in the challenge is extracted from 1 Hi-Fi microphone and 16-channel circular microphone arrays for 1/3/5 meters. And the contents are the Chinese wake-up words. The whole set is divided into train (254 people), dev (42 people) and test (44 people) subsets. Test subset is provided with paired target/non-target answer to evaluate verification results.
 
@@ -210,11 +212,11 @@ In speech processing, keyword spotting deals with the identification of keywords
 
 
 2. [The 2020 Personalized Voice Trigger Challenge (PVTC2020)](https://www.pvtc2020.org/)
-   
-   Recently, personalized voice trigger or wake-up word detection is gaining popularity among speech researchers and developers. Conventionally, the wake-up word detection and speaker verification are carried out separately in pipeline, where a wake-up word detection system is used to generate successful trigger followed by a speaker verification system used to perform identity authentication. In such case, the wake-up word detection system and the speaker verification system are optimized separately, not through an overall joint optimization with a unified goal. As a consequence, their respective network parameters and extracted information are not effectively shared and jointly utilized. Generally the wake-up word detection system needs to run all the time，but the network of speaker verification is relatively large and may not meet the requirements of computing resources on embedding devices. The joint learning or multi-task learning network might be either very light at a small scale as a single always on system, or with a much larger scale at the second stage after a successful wake-up by the first stage voice trigger. 
+
+   Recently, personalized voice trigger or wake-up word detection is gaining popularity among speech researchers and developers. Conventionally, the wake-up word detection and speaker verification are carried out separately in pipeline, where a wake-up word detection system is used to generate successful trigger followed by a speaker verification system used to perform identity authentication. In such case, the wake-up word detection system and the speaker verification system are optimized separately, not through an overall joint optimization with a unified goal. As a consequence, their respective network parameters and extracted information are not effectively shared and jointly utilized. Generally the wake-up word detection system needs to run all the time，but the network of speaker verification is relatively large and may not meet the requirements of computing resources on embedding devices. The joint learning or multi-task learning network might be either very light at a small scale as a single always on system, or with a much larger scale at the second stage after a successful wake-up by the first stage voice trigger.
 
    Paper: [The DKU System Description for The Interspeech 2021 Auto-KWS Challenge](https://arxiv.org/abs/2104.04993)
-   
+
    Officical Code: [PVTC2020](https://github.com/lenovo-voice/THE-2020-PERSONALIZED-VOICE-TRIGGER-CHALLENGE-BASELINE-SYSTEM)
 
 ## Leaderboard
