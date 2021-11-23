@@ -19,8 +19,12 @@
 ## Overview
 In speech processing, keyword spotting deals with the identification of keywords in utterances. This repo is a curated list of awesome Speech Keyword Spotting (Wake-Up Word Detection) papers.
 
+## Survey
+* [Deep Spoken Keyword Spotting: An Overview](https://arxiv.org/abs/2111.10592), JOHN H.L. HANSEN (Fellow, IEEE), 2021.11
+
 ## Publications
 ### 2021
+* [Implicit Acoustic Echo Cancellation for Keyword Spotting and Device-Directed Speech Detection](https://arxiv.org/abs/2111.10639), Universita Politecnica delle Marche & Amazon, 2021.11
 * [WaveSense: Efficient Temporal Convolutions with Spiking Neural Networks for Keyword Spotting](https://arxiv.org/abs/2111.01456), SynSense AG, 2021.11
 * [End-to-end Keyword Spotting using Xception-1d](https://arxiv.org/abs/2110.07498), University of Valencia, 2021.10
 * [Multi-task Voice Activated Framework using Self-supervised Learning](https://arxiv.org/abs/2110.01077), University of California & Qualcomm, 2021.10
