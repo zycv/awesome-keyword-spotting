@@ -56,6 +56,7 @@ In speech processing, keyword spotting deals with the identification of keywords
 * [Optimize what matters: Training DNN-HMM Keyword Spotting Model Using End Metric](https://arxiv.org/pdf/2011.01151), Apple, 2020.11
 * [Training Wake Word Detection with Synthesized Speech Data on Confusion Words](https://arxiv.org/pdf/2011.01460), Duke Kunshan University, 2020.11
 * [Ieee slt 2021 alpha-mini speech challenge: Open datasets, tracks, rules and baselines](https://arxiv.org/pdf/2011.02198), Northwestern Polytechnical University, 2020.11
+* [A depthwise separable convolutional neural network for keyword spotting on an embedded system](https://asmp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13636-020-00176-2.pdf), Technical University of Denmark, 2020.10
 * [Small-Footprint Keyword Spotting with Multi-Scale Temporal Convolution](https://arxiv.org/pdf/2010.09960), University of Science and Technology of China, 2020.10
 * [Micronets: Neural network architectures for deploying tinyml applications on commodity microcontrollers](https://proceedings.mlsys.org/paper/2021/file/a3c65c2974270fd093ee8a9bf8ae7d0b-Paper.pdf), Arm ML Research & Harvard University, 2020.10
 * [Neural Architecture Search For Keyword Spotting](https://arxiv.org/pdf/2009.00165), University of Alberta & Huawei Technologies, 2020.09
@@ -68,6 +69,7 @@ In speech processing, keyword spotting deals with the identification of keywords
 * [Very Fast Keyword Spotting System with Real Time Factor Below 0.01](https://arxiv.org/pdf/2007.10706), Technical University of Liberec, 2020.07
 * [Few-Shot Keyword Spotting With Prototypical Networks](https://arxiv.org/pdf/2007.14463), The University of North Carolina at Charlotte, 2020.07
 * [Exploring Filterbank Learning for Keyword Spotting](https://arxiv.org/pdf/2006.00217), Aalborg University, 2020.06
+* [Mining Effective Negative Training Samples for Keyword Spotting](http://lxie.nwpu-aslp.org/papers/2020ICASSP_HJY.pdf), Northwestern Polytechnical University & Mobvoi Inc., 2020.05
 * [Training Keyword Spotting Models on Non-IID Data with Federated Learning](https://arxiv.org/pdf/2005.10406), Google LLC, 2020.05
 * [Multi-Task Network for Noise-Robust Keyword Spotting and Speaker Verification using CTC-based Soft VAD and Global Query Attention](https://arxiv.org/pdf/2005.03867), KAIST, 2020.05
 * [Streaming keyword spotting on mobile devices](https://arxiv.org/pdf/2005.06720), Google Research, 2020.05
@@ -150,6 +152,9 @@ In speech processing, keyword spotting deals with the identification of keywords
 
 ## OpenSource Code
 * [Github: Wav2KWS: Transfer Learning from Speech Representations for Keyword Spotting](https://github.com/qute012/Wav2Keyword) ( **State-of-the-Art** )
+* [Github: Mining Effective Negative Training Samples for Keyword Spotting](https://github.com/jingyonghou/KWS_Max-pooling_RHE)
+* [Github: A depthwise separable convolutional neural network for keyword spotting on an embedded system](https://github.com/PeterMS123/KWS-DS-CNN-for-embedded)
+* [Github: Hello Edge: Keyword spotting on Microcontrollers](https://github.com/ARM-software/ML-KWS-for-MCU)
 * [Github: Few-Shot Keyword Spotting in Any Language](https://github.com/harvard-edge/multilingual_kws)
 * [Github: Learning Efficient Representations for Keyword Spotting with Triplet Loss](https://github.com/roman-vygon/triplet_loss_kws)
 * [Github: The 2020 Personalized Voice Trigger Challenge: Open Database, Evaluation Metrics and the Baseline Systems](https://github.com/lenovo-voice/THE-2020-PERSONALIZED-VOICE-TRIGGER-CHALLENGE-BASELINE-SYSTEM)
