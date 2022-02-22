@@ -5,6 +5,7 @@
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
   - [Publications](#publications)
+    - [2022](#2022)
     - [2021](#2021)
     - [2020](#2020)
     - [2019](#2019)
@@ -23,7 +24,15 @@ In speech processing, keyword spotting deals with the identification of keywords
 * [Deep Spoken Keyword Spotting: An Overview](https://arxiv.org/abs/2111.10592), JOHN H.L. HANSEN (Fellow, IEEE), 2021.11
 
 ## Publications
+### 2022
+* [BiFSMN: Binary Neural Network for Keyword Spotting](https://arxiv.org/abs/2202.06483v1),Beihang University & Bytedance AI Lab,2022.02
+* [A Fast Network Exploration Strategy to Profile Low Energy Consumption for Keyword Spotting](https://arxiv.org/abs/2202.02361), University of Maryland, Baltimore County, 2022.02
+* [Progressive Continual Learning for Spoken Keyword Spotting](https://arxiv.org/abs/2201.12546), A*STAR, Singapore & Nanyang Technological University, 2022.01
+* [ConvMixer: Feature Interactive Convolution with Curriculum Learning for Small Footprint and Noisy Far-field Keyword Spotting](https://arxiv.org/abs/2201.05863), Alibaba & Nanyang Technological University, 2022.01
+
 ### 2021
+* [ConvMixer: Feature Interactive Convolution with Curriculum Learning for Small Footprint and Noisy Far-field Keyword Spotting](https://arxiv.org/abs/2201.05863), Alibaba & Nanyang Technological University, 2022.01
+* [BBS-KWS:The Mandarin Keyword Spotting System Won the Video Keyword Wakeup Challenge](https://arxiv.org/abs/2112.01757), Netease, 2021.12
 * [Implicit Acoustic Echo Cancellation for Keyword Spotting and Device-Directed Speech Detection](https://arxiv.org/abs/2111.10639), Universita Politecnica delle Marche & Amazon, 2021.11
 * [WaveSense: Efficient Temporal Convolutions with Spiking Neural Networks for Keyword Spotting](https://arxiv.org/abs/2111.01456), SynSense AG, 2021.11
 * [End-to-end Keyword Spotting using Xception-1d](https://arxiv.org/abs/2110.07498), University of Valencia, 2021.10
