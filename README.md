@@ -175,18 +175,22 @@ In speech processing, keyword spotting deals with the identification of keywords
 * [Github: Benchmarking Keyword Spotting Efficiency on Neuromorphic Hardware](https://github.com/abr/power_benchmarks/)
 
 ## Software
-1. [Porcupine](https://github.com/Picovoice/porcupine)
+1. [WeKws (Production First and Production Ready End-to-End Keyword Spotting Toolkit)](https://github.com/wenet-e2e/wekws)
+
+    Small footprint keyword spotting (KWS), or specifically wake-up word (WuW) detection is a typical and important module in internet of things (IoT) devices. It provides a way for users to control IoT devices with a hands-free experience. A WuW detection system usually runs locally and persistently on IoT devices, which requires low consumptional power, less model parameters, low computational comlexity and to detect predefined keyword in a streaming way, i.e., requires low latency.
+
+2. [Porcupine](https://github.com/Picovoice/porcupine)
 
    Porcupine is a highly-accurate and lightweight wake word engine. It enables building always-listening voice-enabled applications.
 
-2. [Sonus](https://github.com/evancohen/sonus)
+3. [Sonus](https://github.com/evancohen/sonus)
 
     Sonus lets you quickly and easily add a VUI (Voice User Interface) to any hardware or software project. Just like Alexa, Google Assistant, and Siri, Sonus is always listening offline for a customizable hotword. Once that hotword is detected your speech is streamed to the cloud recognition service of your choice - then you get the results in realtime.
 
-3. [Picovoice](https://github.com/Picovoice/picovoice)
+4. [Picovoice](https://github.com/Picovoice/picovoice)
 
     Picovoice is the end-to-end platform for building voice products on your terms. Unlike Alexa and Google services, Picovoice runs entirely on-device while being more accurate.
-4. [Mycroft Precise](https://github.com/MycroftAI/mycroft-precise)
+5. [Mycroft Precise](https://github.com/MycroftAI/mycroft-precise)
 
     A lightweight, simple-to-use, RNN wake word listener.
 
