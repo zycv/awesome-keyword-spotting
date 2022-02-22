@@ -31,7 +31,6 @@ In speech processing, keyword spotting deals with the identification of keywords
 * [ConvMixer: Feature Interactive Convolution with Curriculum Learning for Small Footprint and Noisy Far-field Keyword Spotting](https://arxiv.org/abs/2201.05863), Alibaba & Nanyang Technological University, 2022.01
 
 ### 2021
-* [ConvMixer: Feature Interactive Convolution with Curriculum Learning for Small Footprint and Noisy Far-field Keyword Spotting](https://arxiv.org/abs/2201.05863), Alibaba & Nanyang Technological University, 2022.01
 * [BBS-KWS:The Mandarin Keyword Spotting System Won the Video Keyword Wakeup Challenge](https://arxiv.org/abs/2112.01757), Netease, 2021.12
 * [Implicit Acoustic Echo Cancellation for Keyword Spotting and Device-Directed Speech Detection](https://arxiv.org/abs/2111.10639), Universita Politecnica delle Marche & Amazon, 2021.11
 * [WaveSense: Efficient Temporal Convolutions with Spiking Neural Networks for Keyword Spotting](https://arxiv.org/abs/2111.01456), SynSense AG, 2021.11
