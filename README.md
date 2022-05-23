@@ -25,7 +25,19 @@ In speech processing, keyword spotting deals with the identification of keywords
 
 ## Publications
 ### 2022
-* [BiFSMN: Binary Neural Network for Keyword Spotting](https://arxiv.org/abs/2202.06483v1),Beihang University & Bytedance AI Lab,2022.02
+* [Efficient dynamic filter for robust and low computational feature extraction](https://arxiv.org/pdf/2205.01304.pdf), Korea University & Drexel university, 2022.05
+* [Improving Feature Generalizability with Multitask Learning in Class Incremental Learning](https://arxiv.org/pdf/2204.12915.pdf), University of Cambridge & Singapore Management University.2022.04
+* [Understanding Audio Features via Trainable Basis Functions](https://arxiv.org/pdf/2204.11437.pdf), Singapore University of Technology and Design & Agency for Science, Technology and Research, 2022.04
+* [Depth Pruning with Auxiliary Networks for TinyML](https://arxiv.org/pdf/2204.10546.pdf), University of the Philippines & Samsung Research Philippines, 2022.04
+* [AB/BA analysis: A framework for estimating keyword spotting recall improvement while maintaining audio privacy](https://arxiv.org/pdf/2204.08474.pdf), Amazon, 2022.04
+* [Production federated keyword spotting via distillation, filtering, and joint federated-centralized training](https://arxiv.org/pdf/2204.06322.pdf), Google LLC & University of Washington, 2022.04
+* [Small Footprint Multi-channel ConvMixer for Keyword Spotting with Centroid Based Awareness](https://arxiv.org/pdf/2204.05445.pdf), Alibaba Group & Nanyang Technological University, 2022.04
+* [Delta Keyword Transformer: Bringing Transformers to the Edge through Dynamically Pruned Multi-Head Self-Attention](https://arxiv.org/pdf/2204.03479.pdf), Technical University of Denmark & KU Leuven, 2022.04
+* [On the Efficiency of Integrating Self-supervised Learning and Meta-learning for User-defined Few-shot Keyword Spotting](https://arxiv.org/pdf/2204.00352.pdf), National Taiwan University & intelliGo Technology inc. 2022.04
+* [Target-aware Neural Architecture Search and Deployment for Keyword Spotting](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9755991), University of Cagliari & Concept BU，2022.04
+* [Learning Decoupling Features Through Orthogonality Regularization](https://arxiv.org/pdf/2203.16772.pdf), Peking University & Xiaomi Inc., 2022.03
+* [Rainbow Keywords: Efficient Incremental Learning for Online Spoken Keyword Spotting](https://arxiv.org/pdf/2203.16361.pdf), Nanyang Technological University, 2022.03
+* [BiFSMN: Binary Neural Network for Keyword Spotting](https://arxiv.org/abs/2202.06483v1), Beihang University & Bytedance AI Lab,2022.02
 * [A Fast Network Exploration Strategy to Profile Low Energy Consumption for Keyword Spotting](https://arxiv.org/abs/2202.02361), University of Maryland, Baltimore County, 2022.02
 * [Progressive Continual Learning for Spoken Keyword Spotting](https://arxiv.org/abs/2201.12546), A*STAR, Singapore & Nanyang Technological University, 2022.01
 * [ConvMixer: Feature Interactive Convolution with Curriculum Learning for Small Footprint and Noisy Far-field Keyword Spotting](https://arxiv.org/abs/2201.05863), Alibaba & Nanyang Technological University, 2022.01
